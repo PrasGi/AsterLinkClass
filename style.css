@@ -20,6 +20,10 @@ body {
   color: white;
 }
 
+.section:hover {
+  background-color: aliceblue;
+}
+
 h3 {
   color: rgba(79, 79, 79, 1);
 }
