@@ -1,0 +1,43 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgba(224, 224, 224, 1);
+}
+
+.background-header {
+  background-color: rgba(130, 130, 130, 1);
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+#header {
+  text-align: center;
+  /* padding-left: 5px; */
+  color: white;
+}
+
+.background-header .nav-link {
+  color: white;
+}
+
+h3 {
+  color: rgba(79, 79, 79, 1);
+}
+
+button {
+  width: 80px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgba(224, 224, 224, 1);
+}
+
+button:hover {
+  width: 90px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.by {
+  text-align: center;
+}
