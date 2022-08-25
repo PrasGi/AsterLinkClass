@@ -88,6 +88,8 @@ body {
 .background-header {
   position: relative;
   top: 0px;
+  right: 0;
+  left: 0;
   position: fixed;
   background-color: rgba(130, 130, 130, 1);
   width: 100%;
@@ -99,7 +101,7 @@ body {
 }
 
 .section-body {
-  margin-top: 50px;
+  margin-top: 150px;
 }
 
 #header {
@@ -111,13 +113,11 @@ body {
 
 .nav-link {
   display: inline-block;
-  margin-left: 5px;
   text-decoration: none;
   color: whitesmoke;
   border-radius: 5px;
   padding: 5px;
   margin-top: 5px;
-  margin-right: 5px;
   margin-bottom: 5px;
   box-sizing: border-box;
 }
