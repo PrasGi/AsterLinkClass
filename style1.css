@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(247, 250, 166);
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.btn {
+  margin-top: 3px;
+}
+
+section {
+  padding-top: 2rem;
+}
+
+.dream {
+  padding-top: 90px;
+}
+
+.container {
+  margin-top: 10px;
+}
